@@ -27,6 +27,8 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 <br>
 
+### Aqui está um pouco do meu progresso até agora!
+
 <div align="left">
  <img align="right" alt="José Roman GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RomanJoseph&show_icons=true&hide_border=true&theme=dracula" />
 
